@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3488f9cc-ca9d-4e95-8814-3a075755fbe0" name="Default Changelist" comment="" />
+    <list default="true" id="3488f9cc-ca9d-4e95-8814-3a075755fbe0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +35,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588541147928</updated>
-      <workItem from="1588541153518" duration="78000" />
+      <workItem from="1588541153518" duration="1416000" />
     </task>
     <servers />
   </component>
@@ -45,10 +47,10 @@
       <screen x="0" y="27" width="1853" height="1053" />
     </state>
     <state x="704" y="318" width="424" height="491" key="FileChooserDialogImpl/0.27.1853.1053@0.27.1853.1053" timestamp="1588541204807" />
-    <state x="408" y="188" width="1037" height="737" key="SettingsEditor" timestamp="1588541233540">
+    <state x="408" y="188" width="1037" height="737" key="SettingsEditor" timestamp="1588542064676">
       <screen x="0" y="27" width="1853" height="1053" />
     </state>
-    <state x="408" y="188" width="1037" height="737" key="SettingsEditor/0.27.1853.1053@0.27.1853.1053" timestamp="1588541233540" />
+    <state x="408" y="188" width="1037" height="737" key="SettingsEditor/0.27.1853.1053@0.27.1853.1053" timestamp="1588542064676" />
     <state x="682" y="448" width="479" height="223" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1588541229525">
       <screen x="0" y="27" width="1853" height="1053" />
     </state>
