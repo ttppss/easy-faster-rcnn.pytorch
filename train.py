@@ -117,7 +117,7 @@ if __name__ == '__main__':
         parser = argparse.ArgumentParser()
         parser.add_argument('-s', '--dataset', type=str, choices=DatasetBase.OPTIONS, required=True, help='name of dataset')
         parser.add_argument('-b', '--backbone', type=str, choices=BackboneBase.OPTIONS, required=True, help='name of backbone model')
-        parser.add_argument('-d', '--data_dir', type=str, default='./data', help='path to data directory')
+        parser.add_argument('-d', '--data_dir', type=str, default='/data', help='path to data directory')
         parser.add_argument('-o', '--outputs_dir', type=str, default='./outputs', help='path to outputs directory')
         parser.add_argument('-r', '--resume_checkpoint', type=str, help='path to resuming checkpoint')
         parser.add_argument('--image_min_side', type=float, help='default: {:g}'.format(Config.IMAGE_MIN_SIDE))
