@@ -12,7 +12,7 @@ class TrainConfig(Config):
     ANCHOR_SMOOTH_L1_LOSS_BETA: float = 1.0
     PROPOSAL_SMOOTH_L1_LOSS_BETA: float = 1.0
 
-    BATCH_SIZE: int = 1
+    BATCH_SIZE: int = 4
     LEARNING_RATE: float = 0.001
     MOMENTUM: float = 0.9
     WEIGHT_DECAY: float = 0.0005
